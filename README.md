@@ -1,9 +1,11 @@
-## Hey there 👋
+# Hi, I’m Konradin 👋
 
-I'm Konradin, a computer science student based in Germany.
+Computer Science student based in Germany, focusing on low-level systems and high-performance C++.
 
-Currently, I'm working on managing my dotfiles of my new Arch and Niri system.
-
-More projects to come!
-
-All projects on my profile are made from scratch and non-LLM generated. 
+### 🛠️ Current Focus
+*   **Systems**: Personalizing a minimal **Arch Linux** environment powered by the **Niri** scrollable tiling compositor.
+*   **C++ Development**: Solving C++ exercises on Exercism and refactoring implementations against Scott Meyers' Effective C++ to build a foundation in systems programming and memory optimization.
+  
+### 📜 My Philosophy
+*   **Manual Implementation**: Prioritizing iterative refactoring and personal logic over LLM-generated solutions.
+*   **Transparency**: Valuing documented design decisions.
