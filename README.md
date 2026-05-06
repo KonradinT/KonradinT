@@ -1,11 +1,18 @@
-# Hi, I’m Konradin 👋
+# Konradin
 
-Computer Science student based in Germany, focusing on low-level systems and high-performance C++.
+## What’s on this GitHub
 
-### 🛠️ Current Focus
-*   **Systems**: Personalizing a minimal **Arch Linux** environment powered by the **Niri** scrollable tiling compositor.
-*   **C++ Development**: Solving C++ exercises on Exercism and refactoring implementations against Scott Meyers' Effective C++ to build a foundation in systems programming and memory optimization.
-  
-### 📜 My Philosophy
-*   **Manual Implementation**: Prioritizing iterative refactoring and personal logic over LLM-generated solutions.
-*   **Transparency**: Valuing documented design decisions.
+### C++
+- [Binary Search (Exercism)](https://github.com/KonradinT/binary-search)
+  - Focus: clean implementation and iterative improvement
+  - Includes refactoring based on best practices (*Effective C++*)
+
+### Linux
+- [Dotfiles](https://github.com/KonradinT/dotfiles)
+  - Minimal Arch Linux setup with Niri compositor
+  - Focus on simplicity and workflow efficiency
+
+## Current Focus
+- Building strong fundamentals in C++
+- Writing clean, maintainable code through iteration
+- Expanding Exercism solutions over time
