@@ -1,18 +1,16 @@
 # Konradin
 
-## What’s on this GitHub
+## Repositories & Implementations
+
+### C
+* **[matrix-performance-study](https://github.com/KonradinT/matrix-performance-study)**
+  * Benchmarked cache-locality optimizations (matrix transposition) and thread scheduling models for square matrix multiplication, utilizing contiguous heap allocation (`int (*)[MATRIX_SIZE]`).
 
 ### C++
-- [Binary Search (Exercism)](https://github.com/KonradinT/binary-search)
-  - Focus: clean implementation and iterative improvement
-  - Includes refactoring based on best practices (*Effective C++*)
+* **[binary-search (Exercism)](https://github.com/KonradinT/binary-search)**
+  * Developed a binary search algorithm, followed by a refactor implementing code-quality feedback from an Exercism mentor.
 
 ### Linux
-- [Dotfiles](https://github.com/KonradinT/dotfiles)
-  - Minimal Arch Linux setup with Niri compositor
-  - Focus on simplicity and workflow efficiency
-
-## Current Focus
-- Building strong fundamentals in C++
-- Writing clean, maintainable code through iteration
-- Expanding Exercism solutions over time
+* **[dotfiles](https://github.com/KonradinT/dotfiles)**
+  * Configuration files for a minimal Arch Linux utilizing the Niri compositor.
+  * Maintained with a focus on system simplicity and automated workspace workflows.
