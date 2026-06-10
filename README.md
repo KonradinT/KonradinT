@@ -3,8 +3,8 @@
 ## Repositories & Implementations
 
 ### C++
-* **[speedcalc](https://github.com/KonradinT/speedcalc)**
-  * Implemented a speed estimation algorithm based on sensor data for an embedded system.
+* **[embedded-tachometer](https://github.com/KonradinT/embedded-tachometer)**
+  * Implemented a speed calculation algorithm based on sensor data for an embedded system.
   * Contains a custom test-suite.
 * **[binary-search](https://github.com/KonradinT/binary-search)**
   * Developed a binary search algorithm, followed by a refactor implementing code-quality feedback from an Exercism mentor.
